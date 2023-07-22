@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/MeuLog.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		LXpwrdGsCEzXPG7yh//HKfXzA3Y=
+		nQ6v0g4G5zTQFODDtclOIR8zqdU=
 		</data>
 		<key>Modules/MeuLog.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		5FvdNAQa+Jy5DrFFKoaICFDjnMo=
+		lGl1+KYO0/7ZoeELiddMQeOdQng=
 		</data>
 		<key>Modules/MeuLog.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/MeuLog.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		5FvdNAQa+Jy5DrFFKoaICFDjnMo=
+		lGl1+KYO0/7ZoeELiddMQeOdQng=
 		</data>
 		<key>Modules/MeuLog.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		NwzYiOOkmNZrtH+hQvzlRxBmmqk=
+		gq2/a6SR9Y6ROztvaHt3VQ03b+Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,14 +61,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mBaSqlPZPxgvAgUXR/zrKT1Y8MGSyzLI4YYktfYR/50=
+			qE4BzgQrXGKjBE1X/p2nRhLZ+uf3JEgIvpogIEAxE/Q=
 			</data>
 		</dict>
 		<key>Modules/MeuLog.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T2ozZHwB32VGc4Nf7jNiX4xDSMyOIwqODFMJIAlUsq8=
+			dk9wU8lvpo0YrWCVXHIEqaPsCk3h0cGYgALSPoLP1qk=
 			</data>
 		</dict>
 		<key>Modules/MeuLog.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -82,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T2ozZHwB32VGc4Nf7jNiX4xDSMyOIwqODFMJIAlUsq8=
+			dk9wU8lvpo0YrWCVXHIEqaPsCk3h0cGYgALSPoLP1qk=
 			</data>
 		</dict>
 		<key>Modules/MeuLog.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iR69AxE0yHegLk4/Oj4+aURU5BxinNJysWfvj+NBbMI=
+			JkD3YaR0N4dMDDrQYhZ87GFgkylVrJTjjgqswZv8QFo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

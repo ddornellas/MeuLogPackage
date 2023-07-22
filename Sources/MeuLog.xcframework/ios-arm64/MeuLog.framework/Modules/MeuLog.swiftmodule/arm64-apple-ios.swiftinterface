@@ -8,6 +8,6 @@ import Swift
 import _Concurrency
 import _StringProcessing
 @_hasMissingDesignatedInitializers public class Logger {
-  public static func log(message: Swift.String)
+  public static func log_private(message: Swift.String)
   @objc deinit
 }
